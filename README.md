@@ -13,6 +13,7 @@ Prever quais clientes irão sair (churn) com base em um conjunto de dados criado
 ## 🎯 Resultado
 Modelo escolhido: Random Forest  
 ``Modélo escolhido com base em uma pesquisa de qual a melhor opção para palpites e previsões``
+<p></p>
 Acurácia alcançada: 100% 
 ``em uma planilha com 6 Id's dos clientes.``
 
