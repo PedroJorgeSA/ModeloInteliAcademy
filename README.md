@@ -1,4 +1,4 @@
-# Previsão de Churn Desáfio Inteli Cademy
+# Previsão de Churn Desáfio Inteli ACademy
 
 ## 📌 Objetivo
 Prever quais clientes irão sair (churn) com base em um conjunto de dados criados no csv dados_clientes.
